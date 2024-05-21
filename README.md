@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Ask me about anything and i'll try asnwering it 😄
+Ask me about anything and i'll try answering it 😄
 
 <!--
 **mthsalura16/mthsalura16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
