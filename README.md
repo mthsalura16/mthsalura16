@@ -1,18 +1,11 @@
-## Hi there 👋
+## Hi there 👋 my name is MATHEUS and you can ask me anything you want :)
 
-Ask me about anything and i'll try answering it 😄
-
-<!--
-**mthsalura16/mthsalura16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on an special school project
+- 🌱 I’m currently learning java script
+- 👯 I’m looking to collaborate with some social medias managers
+- 🤔 I’m looking for help with scripting
+- 💬 Ask me about any type of ice cream ( i love almost all of them )
+- 📫 How to reach me: you cant , only here u can 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im a swimmer
 -->
